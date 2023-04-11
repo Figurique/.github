@@ -1,6 +1,6 @@
 <a href="https://figurique.com/" style="display: flex; align-items: center;">
-    <img src="./logo.png" width="60" style="margin-right: 1rem;">
-    <img src="./figurique.png" width="400">
+    <img src="./profile/logo.png" width="60" style="margin-right: 1rem;">
+    <img src="./profile/figurique.png" width="400">
 </a>
 
 ---
