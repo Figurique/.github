@@ -1,4 +1,4 @@
-<a href="https://figurique.com/" style="display: flex; align-items: center;">
+<a href="https://figurique.com/" style="display: flex; align-items: center; gap: 0.5rem;">
     <img src="./profile/logo.png" width="60" style="margin-right: 1rem;">
     <img src="./profile/figurique.png" width="400">
 </a>
